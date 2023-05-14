@@ -37,8 +37,8 @@
       "dist/credentials/SmartIRMApi.credentials.js"
     ],
     "nodes": [
-      "dist/nodes/SmartIRM/SmartIRMSystem.node.js",
-      "dist/nodes/SmartIRM/SmartIRMCompose.node.js"
+      "dist/nodes/SmartIRMCompose/Smartirmcompose.node.js",
+      "dist/nodes/SmartIRMSystem/Smartirmsystem.node.js"
     ]
   },
   "devDependencies": {
